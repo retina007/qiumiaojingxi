@@ -1,4 +1,4 @@
-! Version:2017/12/13/10:30
+! Version:2017/12/13/17:22
 ! Title:Easy Safari
 ! Author:秋杪菁夕
 ! Description:广告猎手反馈QQ群:514536444.
@@ -35,6 +35,7 @@
 ##a[href*=".com/?p="][target="_blank"] > img[src$=".gif"]
 !--------------------------------------------!
 ##.ad-card
+##.adcontent
 ##.addthis_toolbox
 ##.adLog
 ##.adright
@@ -240,6 +241,7 @@ lvehaisen.com
 lvyishengtai.com
 mangofortune.net
 meooe.com
+miaobige.com/mb/react.js
 miaozhen.com$third-party
 mozist.com
 nixiclothing.com
@@ -561,7 +563,7 @@ zhidao.baidu.com##.bottom-banner
 16163.com##a.expand-link
 360doc.cn##.dowloadBtn
 !--------------------------------------------!
-*$third-party,script,domain=i.biquge5200.com|lwxiaoshuo.com|m.baishuku.com|m.bequge.com|m.bichi.me|m.biqudu.com|m.biqiuge.com|m.biquge.cm|m.biquge.com|m.biquge.com.tw|m.biquge.tw|m.biqugebook.com|m.biqugego.com|m.biqugexsw.com|m.biqugezw.com|m.biqukan.com|m.biquwu.cc|m.biquzi.com|m.blwenku.com|m.boluoxs.com|m.booktxt.net|m.book9.net|m.dhzw.org|m.fhxiaoshuo.com|m.fhxsw.org|m.gxwztv.com|m.haxwx2.com|m.hkslg.net|m.hujuge.com|m.jjxsw.org|m.kewai.la|m.kewaishu.net|m.liewen.cc|m.miaobige.com|m.mpzw.com|m.mytxt.cc|m.qu.la|m.qxs.la|m.sanjiangge.com|m.shumil.com|m.shumilou.net|m.shuqu8.com|m.shushu8.com|m.shuyuewu.co|m.silukeke.com|m.snwx8.com|m.suimeng.la|m.txt2017.com|m.vodtw.com|m.wenxue6.com|m.wodexiaoshuo1.cc|m.xiaoshuotxt.cc|m.xiaoxiaoshuwu.com|m.xiaoxiaoshuwu.net|m.xiashu.cc|m.xs.la|m.xs222.tw|m.x81zw.com|m.ybdu.com|m.yikanxiaoshuo.com|m.yuyouge.com|m.zanghaihuatxt.com|m.zbzw.com|m.zhenben.cc|m.zhuaji.org|m.zwdu.com|wap.xxbiquge.com|wap.yb3.cc|m.00ksw.org|m.11kt.cn|m.208xs.com|m.23txt.com|m.3dllc.cc||m.50zw.co|m.50zw.la|m.55xs.com|m.555zw.com|m.630book.la|m.67shu.com|m.83zw.com|m.88dushu.com
+*$third-party,script,domain=i.biquge5200.com|lwxiaoshuo.com|m.baishuku.com|m.bequge.com|m.bichi.me|m.biqudu.com|m.biqiuge.com|m.biquge.cm|m.biquge.com|m.biquge.com.tw|m.biquge.tw|m.biqugebook.com|m.biqugego.com|m.biqugexsw.com|m.biqugezw.com|m.biqukan.com|m.biquwu.cc|m.biquzi.com|m.blwenku.com|m.boluoxs.com|m.booktxt.net|m.book9.net|m.dhzw.org|m.fhxiaoshuo.com|m.fhxsw.org|m.gxwztv.com|m.haxwx2.com|m.hkslg.net|m.hujuge.com|m.jjxsw.org|m.kewai.la|m.kewaishu.net|m.liewen.cc|m.mpzw.com|m.mytxt.cc|m.qu.la|m.qxs.la|m.sanjiangge.com|m.shumil.com|m.shumilou.net|m.shuqu8.com|m.shushu8.com|m.shuyuewu.co|m.silukeke.com|m.snwx8.com|m.suimeng.la|m.txt2017.com|m.vodtw.com|m.wenxue6.com|m.wodexiaoshuo1.cc|m.xiaoshuotxt.cc|m.xiaoxiaoshuwu.com|m.xiaoxiaoshuwu.net|m.xiashu.cc|m.xs.la|m.xs222.tw|m.x81zw.com|m.ybdu.com|m.yikanxiaoshuo.com|m.yuyouge.com|m.zanghaihuatxt.com|m.zbzw.com|m.zhenben.cc|m.zhuaji.org|m.zwdu.com|wap.xxbiquge.com|wap.yb3.cc|m.00ksw.org|m.11kt.cn|m.208xs.com|m.23txt.com|m.3dllc.cc||m.50zw.co|m.50zw.la|m.55xs.com|m.555zw.com|m.630book.la|m.67shu.com|m.83zw.com|m.88dushu.com
 *$xmlhttprequest,domain=lwxiaoshuo.com|m.baishuku.com|m.baishulou8.com|m.biqudu.com|m.biquge.cm|m.biquge.com|m.biquge.com.tw|m.biquge.tw|m.biqugego.com|m.biqugexsw.com|m.biquzi.com|m.booktxt.net|m.book9.net|m.bqg5200.com|m.dhzw.org|m.dingdiann.com|m.fhxsw.org|m.gxwztv.com|m.hkslg.net|m.jjxsw.org|m.kewai.la|m.kxs7.com|m.lewenxiaoshuo.com|m.lwtxt.net|m.mpzw.com|m.mytxt.cc|m.qu.la|m.sanjiangge.com|m.shuhuangge.org|m.shuqu8.com|m.shushu8.com|m.silukeke.com|m.snwx8.com|m.suimeng.la|m.txt2017.com|m.weilaitianwang.com|m.wenxue6.com|m.wodexiaoshuo1.cc|m.xiaoxiaoshuwu.net|m.xiashu.cc|m.xs.la|m.xs222.tw|m.x81zw.com|m.yikanxiaoshuo.com|m.yuyouge.com|m.zhenben.cc|m.zhuaji.org|m.11kt.cn|m.23sw.net|m.23txt.com|m.23us.so|m.37zw.net|m.5ccc.net|m.555zw.com|m.83zw.com|m.88dushu.com|wap.xxbiquge.com|wap.yb3.cc
 *$third-party,domain=alicili.pw|btdigg.xyz|btkitty.pet|btlibrary.ws|btkitty.fyi|cilidaquan.xyz|diggbt.fyi|savebt.com|storebt.biz|torrentkitty.uno|zhongzicili.me
 !--------------------------------------------!
