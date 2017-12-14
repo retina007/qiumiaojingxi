@@ -1,4 +1,4 @@
-! Version:2017/12/14/13:10
+! Version:2017/12/14/13:16
 ! Title:Easy Safari
 ! Author:秋杪菁夕
 ! Description:广告猎手反馈QQ群:514536444.
@@ -366,7 +366,6 @@ baidu.com##div[tpl="fc_before_fixads"]
 baidu.com###gh-safariicon-container
 baidu.com##.gh-safari-btn
 baidu.com##section#s_index_body
-baidu.com##[class*="5a"]
 baidu.com##div[mip-custom-container]
 bbs.feng.com##.layui-m-layershade
 bbs.feng.com##.layui-m-layerchild.layui-m-layer-footer.layui-m-anim-up
@@ -558,8 +557,8 @@ zhidao.baidu.com##div[class$="-ecom-ads"]
 zhidao.baidu.com##.link
 zhidao.baidu.com##.quality-elinks
 zhidao.baidu.com###p-relate-question + .mm-content-box
-zhidao.baidu.com###main-content > [class*="5a"]
 zhidao.baidu.com##.bottom-banner
+zhidao.baidu.com,muzhi.baidu.com##div[class*="5a"]
 05wang.com##[style="width:auto;border: 1px solid #aaaaaa; position:fixed; bottom:1px; right:1px;"]
 163.com##.m_pbpb
 163.com##.doc-footer-wrapper
