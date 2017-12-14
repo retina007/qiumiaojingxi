@@ -1,4 +1,4 @@
-! Version:2017/12/14/16:00
+! Version:2017/12/14/16:26
 ! Title:Easy Safari
 ! Author:秋杪菁夕
 ! Description:广告猎手反馈QQ群:514536444.
@@ -513,6 +513,7 @@ sina.cn##div[id^="ja"]
 sina.cn##article.article.article-sax
 sina.cn##div.voice
 sina.cn##div.specSlide2Wrap
+sina.cn##div[listener="true"]
 segmentfault.com##div.app-open-in-bar
 sogou.com###J-index-tab
 sogou.com###indexAppOne
