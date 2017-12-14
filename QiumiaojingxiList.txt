@@ -1,4 +1,4 @@
-! Version:2017/12/13/17:22
+! Version:2017/12/14/13:10
 ! Title:Easy Safari
 ! Author:秋杪菁夕
 ! Description:广告猎手反馈QQ群:514536444.
@@ -53,6 +53,7 @@
 ##.shareEntry-blank
 ##.wp.a_h
 ##.wp.a_f
+##.YWBDAD
 !--------------------------------------------!
 ###ad_left
 ###ad-list
@@ -61,6 +62,10 @@
 ###div_app_ad
 ###player-advertising
 !--------------------------------------------!
+##[class^="AD"]
+##[class^="ad_"]
+##[class$="AD"]
+##[class$="-ad"]
 ##div[class*="ads"]
 ##div[class*="adv"]
 ##[class*="AdBanner"]
@@ -78,6 +83,7 @@
 ||ark.letv.com
 ||baidu-union-js.chuimg.com
 ||bbs.xmfish.com/wap/js/action.min.js
+||bdjs.120askimages.com
 ||bdstatic.com/searchbox/icms/searchbox/img/*.jpg
 ||b17.shangc.net
 ||c.mnjkw.cn
@@ -360,7 +366,8 @@ baidu.com##div[tpl="fc_before_fixads"]
 baidu.com###gh-safariicon-container
 baidu.com##.gh-safari-btn
 baidu.com##section#s_index_body
-baidu.com##[class*="5a27"]
+baidu.com##[class*="5a"]
+baidu.com##div[mip-custom-container]
 bbs.feng.com##.layui-m-layershade
 bbs.feng.com##.layui-m-layerchild.layui-m-layer-footer.layui-m-anim-up
 bbs.feng.com##.posi-fixed-btn
